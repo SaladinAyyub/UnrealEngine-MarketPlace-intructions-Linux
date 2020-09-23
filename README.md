@@ -9,7 +9,7 @@ Downloading Unreal Engine Marketplace assets on Linux is very simple here are th
 
 2) Donwloading Epic Games Launcher using lutris
 
-https://user-images.githubusercontent.com/40650341/94040639-d10fcb00-fde6-11ea-943f-073048674aa2.png
+![Screenshot from 2020-09-23 21-48-26](https://user-images.githubusercontent.com/40650341/94040639-d10fcb00-fde6-11ea-943f-073048674aa2.png)
 
 3) Login into the epic games launcher
 
@@ -29,7 +29,7 @@ Restart the epic games store if you have already opened it for Epic Games store 
 
 Now when adding any asset from market place you would be able to add the asset into this Dummy Project which you can copy paste and use on any Unreal Project on Linux.
 
-https://user-images.githubusercontent.com/40650341/94042494-4bd9e580-fde9-11ea-8517-2ab8218ed026.png
+![Screenshot from 2020-09-23 22-05-08](https://user-images.githubusercontent.com/40650341/94042494-4bd9e580-fde9-11ea-8517-2ab8218ed026.png)
 
 Note: Click Show All toggle when adding asset to the project. And select the engine version in this window 
 
