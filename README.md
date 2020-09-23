@@ -18,7 +18,8 @@ Downloading Unreal Engine Marketplace assets on Linux is very simple here are th
   Create a Directory Named ```Unreal Projects``` and inside that create a Directory by any project name lets call it ```Dummy```
   Now Create a ```Dummy.uproject``` file inside the Dummy folder and paste the following into it
   
-```   {
+```   
+{
 	"FileVersion": 3,
 	"EngineAssociation": "",
 	"Category": "",
