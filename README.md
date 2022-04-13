@@ -1,6 +1,6 @@
 # UnrealEngine-MarketPlace-intructions-Linux
 
-**The below blog is still great and use it if you like However Heroic Games launcher now supports Unreal Engine marketplace ( Update 2022 - currrently heroic games launcher has some bug so stick to the guide below) and I highly recommend checking that out.**
+**The below blog is still great and use it if you like However Heroic Games launcher https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher for Gaming, Browsing the marketplace, and https://github.com/AchetaGames/Epic-Asset-Manager Epic Asset manager for Adding owned assets (vault) to your own project, and launching the engine. is my workflow and I highly recommend checking those out.**
 
 Please take a look at my posted blog on gamedev.tv
 
